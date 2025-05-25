@@ -21,7 +21,7 @@ A lightweight and intuitive React.js-based web application for real-time text ma
 ## 📦 Installation
 
 ```bash
-[git clone https://github.com/ayushjaiswal3/TextMagic.git]
+git clone https://github.com/ayushjaiswal3/TextMagic.git
 cd TextUtils
 npm install
 npm start
