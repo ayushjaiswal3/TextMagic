@@ -1,4 +1,4 @@
-# TextUtils
+# TextMagic
 
 A lightweight and intuitive React.js-based web application for real-time text manipulation. Easily convert text cases, remove extra spaces, and apply custom formatting. Includes light/dark mode support, powered by Redux for enhanced user experience and accessibility.
 
@@ -57,4 +57,4 @@ A lightweight and intuitive React.js-based web application for real-time text ma
 - For production deployment, additional configuration steps might be necessary depending on your chosen hosting environment.
 - Ensure you replace `<your-username>` in the clone command with your actual GitHub username.
 
-Following these steps should successfully set up your local development environment for the EcoQuest application.
+Following these steps should successfully set up your local development environment for the TextMagic application.
