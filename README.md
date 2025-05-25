@@ -15,13 +15,13 @@ A lightweight and intuitive React.js-based web application for real-time text ma
 - React.js
 - Redux
 - JavaScript
-- Tailwind CSS (if used)
-- HTML5/CSS3
+- Tailwind CSS 
+- HTML/CSS
 
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/ayushjaiswal3/TextMagic.git
-cd TextUtils
+cd TextMagic
 npm install
 npm start
